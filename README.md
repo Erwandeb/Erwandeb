@@ -1,4 +1,4 @@
-<h1 align="center">Welcome on my github !</h1>
+<h1 align="center">Welcome on my profil !</h1>
 <h4 align="center">I'm a Erwan, french frontend developer, passionate by the power of web, since my first website, in 2012.</h4>
 
 
