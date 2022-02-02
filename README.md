@@ -1,4 +1,4 @@
-<h1 align="center">Welcome on my profil !</h1>
+<h1 align="center">Hi ! Welcome on my profil !</h1>
 <h4 align="center">My name is Erwan, I'm a french developer specialised in front-end and blockchain. </br> Passionate by the power of web, since my first website, in 2012.</h4>
 
 
@@ -31,6 +31,7 @@
  
  <h2 align="center">Please have a look on my repositories</h2>
  <div align="center">:small_red_triangle_down:</div>
+
 
 
 
