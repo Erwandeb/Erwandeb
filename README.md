@@ -1,7 +1,45 @@
 <h1 align="center">Hi ! Welcome on my profil !</h1>
 <h4 align="center">My name is Erwan, I'm a french developer specialised in front-end and blockchain. </br> Passionate by the power of web, since my first website, in 2012.</h4>
 
+<h3 align="left">Main skills : </h3>
 
+<h4 align="left">HTML & CSS </h4>
+<li> Using good semantics HTML </li>
+<li> SEO </li>
+<li> Effects, transitions and animations </li>
+<li> Reproduct template as original </li>
+
+<h4 align="left"> JAVASCRIPT </h4>
+<li> Using Variables, loop, etc...</li>
+<li> DOM Events </li>
+<li> Handle data  </li>
+<li> Using functions</li>
+<li> Oriented programming Object</li>
+<li> Algorithm </li>
+<li> Using Design Patterns</li>
+<li> Using API ou Services</li>
+<li> Unit Testing </li>
+
+<h4 align="left"> REACT JS </h4>
+<li> JSX Syntax</li>
+<li> Creating router dom</li>
+<li> States and Props</li>
+<li> Connecting Backend API</li>
+<li> Stateless components</li>
+<li> Making NPM package and reuse them</li>
+<li> State manager (Redux)</li>
+<li> Hooks</li>
+<li> Lifecycles</li>
+<li> Classes or Fucntion depends of the projects</li>
+<li> Lifecycles</li>
+
+
+<h4 align="left"> NODE JS </h4>
+<li> Config an API.</li>
+<li> Authentificaition</li>
+<li> CRUD </li>
+<li> Unit testing</li>
+<li> Security</li>
 
 
 <h3 align="left"> Technicals Tools :</h3>
