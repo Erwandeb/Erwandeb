@@ -3,11 +3,12 @@
 
 ### About me:
 
-<li> :mortar_board:  Graduate from "Developpeur Front end" OpenClassRoom journey </li>
-<li> :computer:  Loving Javascript developpement with React.js and Node.Js </li>
+<li> :mortar_board:  Graduate from "Developpeur Front end" with OpenClassRoom </li>
+<li> :computer:   Loving Javascript developpement with React.js and Node.Js </li>
 <li> :telescope:  Looking for a job in web developpement around Britanny, France </li>
-<li> :seedling:  Currently learning 3D with Three.js and Solidity and Web3.0 world</li>
-<li> :droplet:  Love salt water</li>
+<li> :seedling:   Learning 3D with Three.js and Solidity and Web3.0 world</li>
+<li> :hammer:     Currently building an social media API</li>
+<li> :droplet:    Salt water</li>
 
 
 <h3 align="left"> Technicals Tools :</h3>
