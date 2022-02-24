@@ -9,7 +9,7 @@
 <li> :seedling:   Learning 3D with Three.js</li>
 <li> :seedling:   Learning  Solidity and blockchain environnement (Web 3.0)</li>
 <li> :hammer:     Currently building an social media with javascript environnement</li>
-<li> :soon:       Starting a basic application with Typescript</li>
+<li> :soon:       Starting application with Typescript</li>
 <li> :droplet:    Salt water</li>
 
 
