@@ -38,7 +38,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  
  
- <h2 align="center">Please have a look on my repositories</h2>
+ <h2 align="center">Please have a look on my repositories :</h2>
  <div align="center">:small_red_triangle_down:</div>
 
 
