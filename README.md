@@ -5,7 +5,6 @@
 
 <li> :computer:   Javascript & PHP </li>
 <li> :seedling:   3D with Three.js</li>
-<li> :soon:       Starting application with Typescript</li>
 <li> :droplet:    Salt water</li>
 
 
