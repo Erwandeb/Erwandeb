@@ -3,11 +3,8 @@
 
 ### About me:
 
-<li> :mortar_board:  Graduate from "Developpeur Front end" with OpenClassRoom </li>
-<li> :computer:   Loving Javascript developpement with React.js and Node.Js </li>
-<li> :telescope:  Currently looking for a job in web developpement around Britanny, France </li>
-<li> :seedling:   Learning 3D with Three.js journey</li>
-<li> :hammer:     Currently building an social media with javascript environnement </li>
+<li> :computer:   Javascript & PHP </li>
+<li> :seedling:   3D with Three.js</li>
 <li> :soon:       Starting application with Typescript</li>
 <li> :droplet:    Salt water</li>
 
