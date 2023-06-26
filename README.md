@@ -1,5 +1,5 @@
 <h1 align="center">Hi !</h1>
-<h4 align="center">My name is Erwan, I'm a french developer specialised in front-end developpement</br> Passionate by the power of web, since my first website, in 2012.</h4>
+<h4 align="center">My name is Erwan, I'm a french developer specialised in JS and PHP developpement</br> Passionate by the power of web, since my first website, in 2012.</h4>
 
 ### About me:
 
